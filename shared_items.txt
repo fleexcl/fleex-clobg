@@ -1,0 +1,1 @@
+["bolso_ropa"]  = {["name"] = "bolso_ropa", ["label"] = "Bolso de Ropa", 	["weight"] = 100, ["type"] = "item", ["image"] = "bolso_ropa.png", ["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "Un Bolso para llevar tu ropa"},
