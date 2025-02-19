@@ -1,6 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
-description 'rainbow-clobg'
+description 'fleex-clobg'
+
 client_scripts{
     'client.lua',
 }
